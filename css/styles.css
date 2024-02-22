@@ -771,7 +771,7 @@ margin-bottom: 4px;
   height: 16px;
 }
 
-.check .icon-checked {
+input[type="checkbox"]:checked + .check {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd
