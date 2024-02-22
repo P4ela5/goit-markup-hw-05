@@ -771,7 +771,7 @@ margin-bottom: 4px;
   height: 16px;
 }
 
-.model-input-check:checked + .icon-check {
+.check .icon-checked {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd
