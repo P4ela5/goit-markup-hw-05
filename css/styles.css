@@ -741,6 +741,7 @@ margin-bottom: 4px;
   outline: transparent; 
   resize: none;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  display: block;
   }
 
 .textaerea:focus {
@@ -798,4 +799,5 @@ input[type="checkbox"]:checked + .label-check .icon-check {
   background: #4d5ae5;
   cursor: pointer;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 4px;
 }
