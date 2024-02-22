@@ -771,7 +771,7 @@ margin-bottom: 4px;
   height: 16px;
 }
 
-input[type="checkbox"]:checked + .check .icon-check {
+input[type="checkbox"]:checked + .label-check .icon-check {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd
