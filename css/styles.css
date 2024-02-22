@@ -793,7 +793,7 @@ input[type="checkbox"]:checked + .label-check .icon-check {
   letter-spacing: 0.04em;
   text-align: center;
   color: #fff;
-  margin: 24px 96px;
+  margin: 0 auto;
   border: none;
   background: #4d5ae5;
   cursor: pointer;
